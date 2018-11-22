@@ -1,0 +1,14 @@
+%#%#%#%#%#%#%#%#%#^^^^^^%#%#%#%#%#%#%#%#
+#               JW      JW             %
+%      h2g                             #
+
+Name: SHORT -N- SWEET
+Platforms: 1
+
+%) white-square.png
+#) ironstone-square.png
+
+1) neptune-square.png
+
+Customer: Alice 10 1 ^J 10 100
+Customer: Alice 10 1 ^J 10 100

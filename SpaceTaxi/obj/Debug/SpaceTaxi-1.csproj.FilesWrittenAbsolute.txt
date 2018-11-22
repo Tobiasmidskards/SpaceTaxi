@@ -1,0 +1,10 @@
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.dll
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.xml

@@ -1,0 +1,324 @@
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csprojResolveAssemblyReference.cache
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CoreCompileInputs.cache
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/bin/Debug/OpenTK.dll
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+/Users/anders1991/Desktop/DIKUArcade-solutions/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.dll
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csprojResolveAssemblyReference.cache
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CoreCompileInputs.cache
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+/Users/anders1991/Desktop/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.dll
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.xml
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csprojResolveAssemblyReference.cache
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CoreCompileInputs.cache
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MTL/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.dll
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csprojResolveAssemblyReference.cache
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CoreCompileInputs.cache
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csprojAssemblyReference.cache
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CoreCompileInputs.cache
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.dll
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.xml
+C:/Users/Toby/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CopyComplete
+<<<<<<< HEAD
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.dll
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.xml
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csprojResolveAssemblyReference.cache
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CoreCompileInputs.cache
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Levels/short-n-sweet.txt
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Levels/the-beach.txt
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-bottom.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage1.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage2.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerStandLeft.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerStandRight.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerWalkLeft.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerWalkRight.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-left-half-circle.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-right-half-circle.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Explosion.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/generate-images.sh
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/logo.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/minsk-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/nandor-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/obstacle.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/olive-green-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/platform.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/purple-circle.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/salt-box-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/SpaceBackground.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/tacha-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/tacha-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Back.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Back_Right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Back.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Back_Right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_None.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_None_Right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-left-half-circle.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-lower-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-lower-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-right-half-circle.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-square.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-upper-left.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-upper-right.png
+C:/Users/52173.DESKTOP-PPE94DD/Documents/School/Software Development/SpaceTaxi-MT/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/yellow-stick.png
+=======
+>>>>>>> b494a37b29e9e6594cdc8f82741e5fdfe00e01ad
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-bottom.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage1.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage2.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerStandLeft.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerStandRight.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerWalkLeft.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerWalkRight.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-left-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-right-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Explosion.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/generate-images.sh
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/logo.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/minsk-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/nandor-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/obstacle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/olive-green-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/platform.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/purple-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/salt-box-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/SpaceBackground.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/tacha-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/tacha-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Back.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Back_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Back.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Back_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_None.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_None_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-left-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-right-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/yellow-stick.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Levels/short-n-sweet.txt
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/SpaceTaxiGame/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Levels/the-beach.txt
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-bottom.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-edge-top.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage1.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/aspargus-passage2.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerStandLeft.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerStandRight.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerWalkLeft.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/CustomerWalkRight.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-left-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-right-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/deep-bronze-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/emperor-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Explosion.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/generate-images.sh
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/green-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/ironstone-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/minsk-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/nandor-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/neptune-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/obstacle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/olive-green-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/platform.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/purple-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/salt-box-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine-brown-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/sanguine_brown-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/SpaceBackground.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/studio-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/tacha-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/tacha-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Back.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Back_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Back.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Back_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_Bottom_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_None.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/Taxi_Thrust_None_Right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-left-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-lower-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-lower-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-right-half-circle.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-square.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-upper-left.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/white-upper-right.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/yellow-stick.png
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Levels/short-n-sweet.txt
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Levels/the-beach.txt
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe.config
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.exe
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/SpaceTaxi-1.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.dll
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.dll
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/DIKUArcade.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/OpenTK.xml
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csprojResolveAssemblyReference.cache
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.csproj.CoreCompileInputs.cache
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.exe
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/obj/Debug/SpaceTaxi-1.pdb
+/Users/Tobiasmidskard/Desktop/SpaceTaxi/exam-2018/exercise-8/exercise-8/SpaceTaxi-1/bin/Debug/Assets/Images/logo.png
